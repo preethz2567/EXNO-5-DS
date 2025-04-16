@@ -1,5 +1,7 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
 
+### NAME : PREETHI D
+### REGISTER NUMBER : 212224040250
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
